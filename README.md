@@ -1,18 +1,10 @@
 # react-redux-tutorial
 
-## Notes
+#Summary
+Here's a bit about myself,
 
-- You are able to pass an initial state to createStore, but most of the time you do not have to.
-- Passing an initial state is useful for server side rendering. 
-- The state comes from the reducers.
+Being a graduate from General Assembly in there Web Development Immersive program I was able to learn the basics of becoming a Full Stack Developer. I still don't know if that is the exact path I want to take so I just call myself a Web Developer. 
 
-# Reducers
+I decided to today November 3rd that I will be taking part in a 100 days of code challenge for myself to become organized and also have motivation to keep on coding with new ideas. I am still lacking in some ways but I plan on getting better.
 
-- In Redux the state must return entierly from reducers.
-- A reducer is a Javascript function. 
-    - It takes two parameters: the current state and an action.
-- State is immutable and cannot change in place.
-
-- Reducers must be pure. A pure function is on that returns the exact same output for the given input. 
-- In React the local state changes in place with setState. In Redux you cannot do that.
-
+I am going to start off the 100 days with workin on a React and Redux tutorial. I will share the link below of which tutorial I am using. For an hour or maybe more, depending how I feel I will be working on here until I complete this tutorial and move on to something else after.
