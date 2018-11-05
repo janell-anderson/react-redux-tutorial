@@ -1,6 +1,6 @@
 // src/js/reducers/index.
 
-import { ADD_ARTICLE } from "../constants/actions-types";
+import { ADD_ARTICLE } from "../constants/action-types";
 
 const initialState = {
     articles: []
