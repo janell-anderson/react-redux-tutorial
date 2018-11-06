@@ -24,6 +24,7 @@
   ],
   "devDependencies": {
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "react-redux": "^5.1.0",
     "redux": "^4.0.1"
   }
 }
